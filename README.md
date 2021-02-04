@@ -1,2 +1,2 @@
 # SolarSystemModel
-This was a short project in which I created a 3-D visualization of the planets in the solar system orbiting the sun.  Initial positions and velocities were gotten by querying the JPL Horizons database and then using Kepler's Laws to predict motion accurately into the future.
+This was a short project in which I created a 3-D visualization of the planets in the solar system orbiting the sun.  The folder contains the matlab code as well as an accompanying video which shows the simulation and visualization running.  Initial positions and velocities were gotten by querying the JPL Horizons database and then using Kepler's Laws to predict motion accurately into the future.
